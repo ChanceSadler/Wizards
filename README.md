@@ -1,2 +1,2 @@
 # Wizards
-wizards' companion app for Wizards of Avalon Hill
+Wizards' companion app for Wizards of Avalon Hill board game
