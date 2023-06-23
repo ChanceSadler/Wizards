@@ -10,5 +10,20 @@ int main()
     
     string choice{"Wiz"};
     while((choice !="Exit") || (choice != "exit"))
+    {
+        cout << "/n Type Your choice from the following:/n";
+        cout<< "'Encounter' for Encounter Options or'Space' for random space, /n";
+        cin >> choice;
+        if((choice == "Encounter")||(choice == "encounter"))
+        {
+
+        }
+
+        if((choice == "Space")||(choice == "space"))
+        {
+
+        }
+
+    }
 
 }
